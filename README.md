@@ -1,6 +1,8 @@
-#MD projects must have
+MD projects must have
+=====================
 
-#Required plugins
+Required plugins
+-----------------
 [Validation](https://github.com/jzaefferer/jquery-validation) — Form validator
 
 [MaskedInput](https://github.com/digitalBush/jquery.maskedinput) — Form mask input customizer
@@ -11,7 +13,8 @@
 
 [Fancybox 1.3.4](http://fancybox.net/) — Lightbox
 
-#Optional plugins
+Optional plugins
+-----------------
 [jQuery form](https://github.com/malsup/form/) — Form ajax submit
 
 [NivoSlider](https://github.com/gilbitron/Nivo-Slider) — Slideshow

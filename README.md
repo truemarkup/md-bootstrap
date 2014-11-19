@@ -13,6 +13,8 @@ Required plugins
 
 [Fancybox 1.3.4](http://fancybox.net/) — Lightbox
 
+[ScrollTo](https://github.com/flesler/jquery.scrollTo) — Animated scroll
+
 Optional plugins
 -----------------
 [jQuery form](https://github.com/malsup/form/) — Form ajax submit

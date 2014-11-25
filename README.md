@@ -24,3 +24,11 @@ Optional plugins
 [Masonry](https://github.com/desandro/masonry) — Animated bricks
 
 [InfiniteScroll](https://github.com/paulirish/infinite-scroll) — Preload content like twitter
+
+Custom
+-----------------
+Show/hide password
+
+Empty cart message
+
+Button classes 'bought','wait'

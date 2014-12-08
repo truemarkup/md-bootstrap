@@ -32,3 +32,5 @@ Show/hide password
 Empty cart message
 
 Button classes 'bought','wait'
+
+Submit inputs by Enter
